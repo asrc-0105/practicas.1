@@ -4,3 +4,4 @@
 
 ![](https://github.com/asrc-0105/practicas.1/blob/main/20240305_153904.jpg)
 
+2. como segundo paso seria colocar las llantas traseras y el motor en su respectivo lugar 
