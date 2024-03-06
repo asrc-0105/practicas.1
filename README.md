@@ -7,4 +7,8 @@
 2. como segundo paso seria colocar las llantas traseras y el motor en su respectivo lugar
    ![](https://github.com/asrc-0105/practicas.1/blob/main/20240305_153633.jpg)
 
-3. ya despues de haber colocado las llantas traseras y el motor el siguiente paso es colocar la base donde se coloca las placas de arduino 
+3. ya despues de haber colocado las llantas traseras y el motor el siguiente paso es colocar la base donde se coloca las placas de arduino
+   ![](https://github.com/asrc-0105/practicas.1/blob/main/20240305_153254.jpg)
+
+4. ya despues es el siguiente paso es poner las llantas delanteras (esta parte me costo un monton porque las llantas no querian entrar )
+  
