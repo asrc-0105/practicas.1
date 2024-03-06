@@ -77,6 +77,12 @@ RoMeo puede ser programado por Arduino IDE 0022 y versiones superiores.
 )
 
 
+links de busquedas: 
+https://youtu.be/lWeEF5fmdko?si=-rP11946fr3UGOyu
+
+https://wiki.dfrobot.com/RoMeo_BLE__SKU_DFR0305_
+https://wiki.dfrobot.com/RoMeo_BLE__SKU_DFR0305_
+
 
 
 
